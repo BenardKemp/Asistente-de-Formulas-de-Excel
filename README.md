@@ -16,15 +16,11 @@ El asistente interpreta tu intención y te devuelve una fórmula válida, lista 
 
 Excel en español presenta varios desafíos que afectan a millones de usuarios:
 
-Las funciones cambian de nombre (SUMIF → SUMAR.SI)
-
-Los separadores son diferentes (; en vez de ,)
-
-La sintaxis cambia según país y versión
-
-Las funciones modernas complican aún más el panorama
-
-No existe un asistente nativo que entienda instrucciones en español
+- Las funciones cambian de nombre (SUMIF → SUMAR.SI)
+- Los separadores son diferentes (; en vez de ,)
+- La sintaxis cambia según país y versión
+- Las funciones modernas complican aún más el panorama
+- No existe un asistente nativo que entienda instrucciones en español
 
 El objetivo del proyecto es resolver todo esto mediante un modelo lingüístico optimizado exclusivamente para Excel en español.
 
@@ -44,11 +40,7 @@ Si quieres, también puede:
 
 - Explicar la fórmula
 - Corregir fórmulas con errores
-
-Proponer alternativas modernas
-
-Convertir fórmulas del inglés al español
-
-Crear funciones avanzadas con LET o LAMBDA
-
-Generar tablas automáticas (FILTRAR + ORDENAR)
+- Proponer alternativas modernas
+- Convertir fórmulas del inglés al español
+- Crear funciones avanzadas con LET o LAMBDA
+- Generar tablas automáticas (FILTRAR + ORDENAR)
