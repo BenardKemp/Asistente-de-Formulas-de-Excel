@@ -44,3 +44,11 @@ Si quieres, también puede:
 - Convertir fórmulas del inglés al español
 - Crear funciones avanzadas con LET o LAMBDA
 - Generar tablas automáticas (FILTRAR + ORDENAR)
+
+
+# 💬 Únete a la beta
+
+Si quieres probar la herramienta, acceder antes que nadie a las actualizaciones y ayudarnos a mejorar el asistente:
+
+👉 [Regístrate para la beta gratuita](https://asistenteformulasexcel.com/)
+
