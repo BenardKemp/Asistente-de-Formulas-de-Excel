@@ -1,2 +1,2 @@
-# Asistente-de-Formulas-de-Excel
-Asistente de Fórmulas de Excel
+# 📘 Asistente de Fórmulas de Excel
+Convierte instrucciones en español → fórmulas reales de Excel.
