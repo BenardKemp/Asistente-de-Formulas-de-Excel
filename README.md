@@ -1,7 +1,7 @@
 # 📘 Asistente de Fórmulas de Excel
 Convierte instrucciones en español → fórmulas reales de Excel.
 
-#🌟 ¿Qué es Asistente-de-Fórmulas-de-Excel?
+# 🌟 ¿Qué es Asistente-de-Fórmulas-de-Excel?
 
 Asistente de Fórmulas de Excel es una herramienta basada en inteligencia artificial diseñada específicamente para usuarios hispanohablantes. Su objetivo es simple pero poderoso:
 
